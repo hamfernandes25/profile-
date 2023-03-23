@@ -2,8 +2,8 @@
   <div style="background-color: #e5e5e5; padding: 15px; text-align: center">
     <HeaderView />
   </div>
-  <br /><br /><br />
-  <div>
+  <br /><br />
+  <div style="padding:10px">
     <div class="menu">
       <LeftView />
     </div>
