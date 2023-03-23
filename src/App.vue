@@ -80,7 +80,7 @@ a {
   background-color: #fafafa;
   float: left;
   width: 70%;
-  padding: 0 20px;
+  padding:20px;
 }
 .project {
   float: left;
