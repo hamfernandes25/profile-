@@ -1,0 +1,32 @@
+<template>
+  <v-carousel>
+    <v-carousel-item
+      src="https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+      cover
+    ></v-carousel-item>
+
+    <v-carousel-item
+      src="https://cdn.vuetifyjs.com/images/cards/hotel.jpg"
+      cover
+    ></v-carousel-item>
+
+    <v-carousel-item
+      src="https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+      cover
+    ></v-carousel-item>
+  </v-carousel>
+  <v-spacer></v-spacer>
+</template>
+
+<script>
+//import HelloWorld from './components/HelloWorld.vue'
+//import CardView from './card.vue'
+
+export default {
+  name: "HeaderView",
+  components: {
+    // HelloWorld,
+    // CardView,
+  },
+};
+</script>
