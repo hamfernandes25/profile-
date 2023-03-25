@@ -17,7 +17,7 @@
       <v-navigation-drawer v-model="drawer" location="top" temporary>
         <v-list><a href="#">Profile</a></v-list>
         <v-list><a href="#">Qualifications</a></v-list>
-        <v-list><a href="#">Projects</a></v-list>
+        <v-list><a href="https://crudvueserver.netlify.app/">Projects</a></v-list>
       </v-navigation-drawer>
     </v-layout>
   </header>
